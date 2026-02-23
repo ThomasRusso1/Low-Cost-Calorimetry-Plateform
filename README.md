@@ -11,5 +11,5 @@ The description of the BoM, CAD parts, Assembly, and different codes required ca
 5. **Adiabatic module:** Find or make the adequate water-tight container to create your adiabatic module, like in [click for adiabatic module](Hardware/images/Adiabatic_module_pictures.png)
 6. **Upload Arduino code:** Upload the code to your arduino [click for Arduino code](Software/Arduino_code)
 7. **Upload Linduino code:** Upload the Linduino code so it can record temperature and Peltier cells data and communicate with the Arduino [click for Linduino code](Software/Linduino_code)
-8. **Setup your Python App:** Setup the Python app for GUI and data storage [click for Python app](Software/Python_App)
+8. **Setup your Python App:** Setup the Python app in the Raspberry Pi for GUI and data storage [click for Python app](Software/Python_App)
 9. **Enjoy your lab-grade calorimetry platform!** Enjoy, don't hesitate to contribute and if you have any question feel free to ask.
