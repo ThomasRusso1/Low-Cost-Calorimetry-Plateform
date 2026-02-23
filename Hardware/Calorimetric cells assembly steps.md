@@ -2,8 +2,9 @@ Assembling the calorimetric cells is quite straight forward once you have all th
 
 First, place the Peltier cells onto the aluminium block with thermal conductive paste at the interface between the aluminium and peltier cells.
 ![peltier cells assembly](images/assembly_peltier_cells.png)
-Then, place the channels separator; you can hot glue it to the aluminium block to ensure it won't move.
 
+Then, place the channels separator; you can hot glue it to the aluminium block to ensure it won't move.
+![separator placement](image/assembly channels separator.png)
 After that, place the PVC tube and pass the cables out from the top of the PVC tube.
 
 Now the cell needs to be water-tight from under; for that, place tightning collars around the PVC tube to firmly clamp it to the block; you can then tape the PVC tube to the aluminium block to create a temporary water-tight-ish assembly. Then poor liquide silicone in the small gap between the tube and block; when it hardens it will be fully water-tight.
