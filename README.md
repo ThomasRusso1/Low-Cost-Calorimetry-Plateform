@@ -5,7 +5,11 @@ The description of the BoM, CAD parts, Assembly, and different codes required ca
 <img width="707" height="415" alt="image" src="https://github.com/user-attachments/assets/5251797d-ede7-4dd9-877c-826f2cc288e1" />
 
 1. **Get the components:** Get the different components, which you can find in [click for BoM](Hardware/BoM.csv)
-2. **Electronic assembly:** Assemble and connect the electronic components as in the diagram presented in [click for interaction diagram](Hardware/images/Components_interaction_diagram.png). Connect the Peltier cells to the Linduino. 
-3. **Create your calorimetric cells:** Follow the steps from [click for steps](Hardware/Calorimetric cells assembly steps.md) to create your calorimetric cells.
-4. **Adiabatic module:** Find or make the adequate water-tight container to create your adiabatic module, like in [click for adiabatic module](Hardware/images/Adiabatic_module_pictures.png)
-5. **Enjoy your lab-grade calorimetry platform!** Enjoy, don't hesitate to contribute and if you have any question feel free to ask.
+2. **3D print the needed parts:** Print the different parts you need: [calorimetric cell](Hardware/Calorimetric_cell.stp) ; [carter base](Hardware/carter_part1.stp) ; [carter top](Hardware/carter_part2.stp) ; [Specimen mould](Specimen_mould.stp)
+3. **Electronic assembly:** Assemble and connect the electronic components as in the diagram presented in [click for interaction diagram](Hardware/images/Components_interaction_diagram.png). Connect the Peltier cells to the Linduino. 
+4. **Create your calorimetric cells:** Follow the steps from [click for assembly steps](Hardware/Calorimetric_cells_assembly_steps.md) to create your calorimetric cells.
+5. **Adiabatic module:** Find or make the adequate water-tight container to create your adiabatic module, like in [click for adiabatic module](Hardware/images/Adiabatic_module_pictures.png)
+6. **Upload Arduino code:** Upload the code to your arduino [click for Arduino code](Software/Arduino_code)
+7. **Upload Linduino code:** Upload the Linduino code so it can record temperature and Peltier cells data and communicate with the Arduino [click for Linduino code](Software/Linduino_code)
+8. **Setup your Python App:** Setup the Python app for GUI and data storage [click for Python app](Software/Python_App)
+9. **Enjoy your lab-grade calorimetry platform!** Enjoy, don't hesitate to contribute and if you have any question feel free to ask.
