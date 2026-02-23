@@ -1,7 +1,7 @@
 Assembling the calorimetric cells is quite straight forward once you have all the components: Peltier cells, aluminium bloc (heat sink), thermal conductive paste, 3D printed channels separator and PVC tube.
 
 First, place the Peltier cells onto the aluminium block with thermal conductive paste at the interface between the aluminium and peltier cells.
-
+(images/assembly peltier cells.png)
 Then, place the channels separator; you can hot glue it to the aluminium block to ensure it won't move.
 
 After that, place the PVC tube and pass the cables out from the top of the PVC tube.
