@@ -23,4 +23,4 @@ Do the same procedure for the channel lids.
 
 Enjoy your DIY-made calorimetric cell! Congrats!
 ![cells](images/assembly_calorimetric_cell.png) 
-![cells_2]/(images/assembly_calorimetric_cell_2.png)
+![cells_2](images/assembly_calorimetric_cell_2.png)
