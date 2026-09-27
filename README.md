@@ -13,4 +13,4 @@ The description of the BoM, CAD parts, Assembly, and different codes required ca
 6. **Upload Arduino code:** Upload the code to your arduino [click for Arduino code](Software/Arduino_code)
 7. **Upload Linduino code:** Upload the Linduino code so it can record temperature and Peltier cells data and communicate with the Arduino [click for Linduino code](Software/Linduino_code)
 8. **Setup your Python App:** Setup the Python app in the Raspberry Pi for GUI and data storage [click for Python app](Software/Python_App)
-9. **Enjoy your lab-grade calorimetry platform!** Enjoy, don't hesitate to contribute and if you have any question feel free to ask.
+9. **Enjoy your lab-grade calorimetry platform!** Enjoy, don't hesitate to contribute and if you have any question feel free to ask. The software in this repository is licensed under the MIT License. The hardware designs are licensed under the CERN-OHL-P. See the respective LICENSE files for details.
